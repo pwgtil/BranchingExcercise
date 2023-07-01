@@ -1,5 +1,6 @@
 def print_message():
     print("Hello, World!")
+    print("This is an adventure!")
 
 
 def main():
